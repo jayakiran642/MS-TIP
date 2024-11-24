@@ -24,12 +24,10 @@ Ensure you have the following installed:
   - `requests`
   - `beautifulsoup4`
   - `pandas`
-  - `openpyxl` (for Excel export)
-
 Install dependencies using:
 
 ```bash
-pip install requests beautifulsoup4 pandas openpyxl
+pip install requests beautifulsoup4 pandas
 ```
 
 ## How to Use
