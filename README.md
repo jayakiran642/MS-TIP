@@ -24,6 +24,7 @@ Ensure you have the following installed:
   - `requests`
   - `beautifulsoup4`
   - `pandas`
+    
 Install dependencies using:
 
 ```bash
